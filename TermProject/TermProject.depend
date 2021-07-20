@@ -1,0 +1,808 @@
+# depslib dependency file v1.0
+1620855332 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\main.cpp
+	<windows.h>
+	<_glScene.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1620855332 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<_input.h>
+	<_texture.h>
+	<_parallax.h>
+	<_player.h>
+	<_timer.h>
+	<_fallingObject.h>
+	<_collision.h>
+	<_gameMessage.h>
+	<_LandingPage.h>
+	<_HelpPage.h>
+	<_MenuPage.h>
+	<_PopUp.h>
+	<_credits.h>
+	<_screenSettings.h>
+	<conio.h>
+	<string>
+	<sstream>
+	<_enemies.h>
+	<_health.h>
+	<_bullet.h>
+	<_sounds.h>
+
+1612228921 c:\users\giris\desktop\csci191games\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1616103990 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_model.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+
+1620855332 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_input.h
+	<windows.h>
+	<_parallax.h>
+	<_player.h>
+	<_LandingPage.h>
+	<_HelpPage.h>
+	<_MenuPage.h>
+	<_PopUp.h>
+	<_credits.h>
+	<_sounds.h>
+
+1616103990 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_parallax.h
+	<string>
+	<GL/gl.h>
+	<_texture.h>
+
+1617322363 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_texture.h
+	<SOIL.h>
+	<GL/gl.h>
+	<iostream>
+
+1613613288 c:\users\giris\desktop\csci191games\common\include\soil.h
+
+1620855332 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_player.h
+	<_common.h>
+	<_texture.h>
+	<_timer.h>
+	<iostream>
+	<GL/gl.h>
+
+1615252925 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_common.h
+
+1615427954 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_timer.h
+	<time.h>
+
+1617228565 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_fallingobject.h
+	<_common.h>
+	<_timer.h>
+	<_texture.h>
+
+1620855332 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_collision.h
+	<math.h>
+	<iostream>
+	<conio.h>
+	<_screenSettings.h>
+	<_player.h>
+	<GL/gl.h>
+	<_enemies.h>
+	<_bullet.h>
+
+1616791904 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_finishflag.h
+	<_common.h>
+	<_texture.h>
+	<_timer.h>
+
+1617228488 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_gamemessage.h
+	<_texture.h>
+	<_common.h>
+
+1620860311 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_collision.cpp
+	"_collision.h"
+
+1617351112 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_fallingobject.cpp
+	"_fallingObject.h"
+	<bits/stdc++.h>
+	<stdlib.h>
+
+1616793759 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_finishflag.cpp
+	"_finishFlag.h"
+
+1620860661 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_gamemessage.cpp
+	"_gameMessage.h"
+
+1616103990 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_gllight.cpp
+	"_glLight.h"
+
+1616103990 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_gllight.h
+	<_glScene.h>
+
+1620860654 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_glscene.cpp
+	"_glScene.h"
+	<_glLight.h>
+	<SOIL.h>
+	<math.h>
+
+1620855332 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_input.cpp
+	"_input.h"
+	<windows.h>
+
+1616103990 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_model.cpp
+	"_model.h"
+
+1619842379 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_parallax.cpp
+	"_parallax.h"
+
+1620858357 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_player.cpp
+	"_player.h"
+
+1617322363 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_texture.cpp
+	"_texture.h"
+
+1615428375 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_timer.cpp
+	"_timer.h"
+
+1620406740 source:d:\graphics\csci-191t-term-project\termproject\main.cpp
+	<windows.h>
+	<_glScene.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1620404755 d:\graphics\csci-191t-term-project\termproject\include\_glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<_input.h>
+	<_texture.h>
+	<_parallax.h>
+	<_player.h>
+	<_timer.h>
+	<_fallingObject.h>
+	<_collision.h>
+	<_gameMessage.h>
+	<_LandingPage.h>
+	<_HelpPage.h>
+	<_MenuPage.h>
+	<_PopUp.h>
+	<_credits.h>
+	<_screenSettings.h>
+	<conio.h>
+	<string>
+	<sstream>
+	<_enemies.h>
+	<_sounds.h>
+
+1607167179 d:\graphics\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1620408318 d:\graphics\csci-191t-term-project\termproject\include\_input.h
+	<windows.h>
+	<_parallax.h>
+	<_player.h>
+	<_LandingPage.h>
+	<_HelpPage.h>
+	<_MenuPage.h>
+	<_PopUp.h>
+	<_credits.h>
+	<_sounds.h>
+
+1617313469 d:\graphics\csci-191t-term-project\termproject\include\_parallax.h
+	<string>
+	<GL/gl.h>
+	<_texture.h>
+
+1617315644 d:\graphics\csci-191t-term-project\termproject\include\_texture.h
+	<SOIL.h>
+	<GL/gl.h>
+	<iostream>
+
+1502817372 d:\graphics\common\include\soil.h
+
+1620400674 d:\graphics\csci-191t-term-project\termproject\include\_player.h
+	<_common.h>
+	<_texture.h>
+	<_timer.h>
+	<iostream>
+	<GL/gl.h>
+
+1617313469 d:\graphics\csci-191t-term-project\termproject\include\_common.h
+
+1617313469 d:\graphics\csci-191t-term-project\termproject\include\_timer.h
+	<time.h>
+
+1617313469 d:\graphics\csci-191t-term-project\termproject\include\_fallingobject.h
+	<_common.h>
+	<_timer.h>
+	<_texture.h>
+
+1620400674 d:\graphics\csci-191t-term-project\termproject\include\_collision.h
+	<math.h>
+	<iostream>
+	<conio.h>
+	<_screenSettings.h>
+	<_player.h>
+	<GL/gl.h>
+	<_enemies.h>
+
+1617313469 d:\graphics\csci-191t-term-project\termproject\include\_gamemessage.h
+	<_texture.h>
+	<_common.h>
+
+1620400674 source:d:\graphics\csci-191t-term-project\termproject\src\_collision.cpp
+	"_collision.h"
+
+1617830310 source:d:\graphics\csci-191t-term-project\termproject\src\_fallingobject.cpp
+	"_fallingObject.h"
+	<bits/stdc++.h>
+	<stdlib.h>
+
+1617313469 source:d:\graphics\csci-191t-term-project\termproject\src\_gamemessage.cpp
+	"_gameMessage.h"
+
+1617313469 source:d:\graphics\csci-191t-term-project\termproject\src\_gllight.cpp
+	"_glLight.h"
+
+1617313469 d:\graphics\csci-191t-term-project\termproject\include\_gllight.h
+	<_glScene.h>
+
+1620409019 source:d:\graphics\csci-191t-term-project\termproject\src\_glscene.cpp
+	"_glScene.h"
+	<_glLight.h>
+	<SOIL.h>
+	<math.h>
+
+1620408847 source:d:\graphics\csci-191t-term-project\termproject\src\_input.cpp
+	"_input.h"
+	<windows.h>
+
+1617313469 source:d:\graphics\csci-191t-term-project\termproject\src\_parallax.cpp
+	"_parallax.h"
+
+1620400674 source:d:\graphics\csci-191t-term-project\termproject\src\_player.cpp
+	"_player.h"
+
+1617317536 source:d:\graphics\csci-191t-term-project\termproject\src\_texture.cpp
+	"_texture.h"
+
+1617313469 source:d:\graphics\csci-191t-term-project\termproject\src\_timer.cpp
+	"_timer.h"
+
+1616822307 source:d:\graphics\csci-191t-term-project\termproject\src\_helppage.cpp
+	"_HelpPage.h"
+
+1616642946 d:\graphics\csci-191t-term-project\termproject\include\_helppage.h
+	<_texture.h>
+
+1617317471 source:d:\graphics\csci-191t-term-project\termproject\src\_landingpage.cpp
+	"_LandingPage.h"
+
+1616557704 d:\graphics\csci-191t-term-project\termproject\include\_landingpage.h
+	<_texture.h>
+
+1616735002 source:d:\graphics\csci-191t-term-project\termproject\src\_menupage.cpp
+	"_MenuPage.h"
+
+1616546877 d:\graphics\csci-191t-term-project\termproject\include\_menupage.h
+	<_texture.h>
+
+1617321204 source:d:\graphics\csci-191t-term-project\termproject\src\_popup.cpp
+	"_PopUp.h"
+
+1616558451 d:\graphics\csci-191t-term-project\termproject\include\_popup.h
+	<_texture.h>
+
+1618902210 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\main.cpp
+	<windows.h>
+	<_glScene.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1620409622 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<_input.h>
+	<_texture.h>
+	<_parallax.h>
+	<_player.h>
+	<_timer.h>
+	<_fallingObject.h>
+	<_collision.h>
+	<_gameMessage.h>
+	<_LandingPage.h>
+	<_HelpPage.h>
+	<_MenuPage.h>
+	<_PopUp.h>
+	<_screenSettings.h>
+	<conio.h>
+	<string>
+	<sstream>
+	<_enemies.h>
+	<_health.h>
+	<_bullet.h>
+
+1612228940 c:\chetan files\gamedevelop\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1620242341 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_input.h
+	<windows.h>
+	<_parallax.h>
+	<_player.h>
+	<_LandingPage.h>
+	<_HelpPage.h>
+	<_MenuPage.h>
+	<_PopUp.h>
+	<_credits.h>
+
+1617326466 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_parallax.h
+	<string>
+	<GL/gl.h>
+	<_texture.h>
+
+1617326466 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_texture.h
+	<SOIL.h>
+	<GL/gl.h>
+	<iostream>
+
+1613613471 c:\chetan files\gamedevelop\common\include\soil.h
+
+1620375430 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_player.h
+	<_common.h>
+	<_texture.h>
+	<_timer.h>
+	<iostream>
+	<GL/gl.h>
+
+1617326466 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_common.h
+
+1617326466 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_landingpage.h
+	<_texture.h>
+
+1617326466 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_helppage.h
+	<_texture.h>
+
+1617326466 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_menupage.h
+	<_texture.h>
+
+1617326466 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_popup.h
+	<_texture.h>
+
+1617326466 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_timer.h
+	<time.h>
+
+1617326466 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_fallingobject.h
+	<_common.h>
+	<_timer.h>
+	<_texture.h>
+
+1620409815 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_collision.h
+	<math.h>
+	<iostream>
+	<conio.h>
+	<_screenSettings.h>
+	<_player.h>
+	<GL/gl.h>
+	<_enemies.h>
+	<_bullet.h>
+
+1617326466 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_gamemessage.h
+	<_texture.h>
+	<_common.h>
+
+1620414226 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_collision.cpp
+	"_collision.h"
+
+1617349043 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_fallingobject.cpp
+	"_fallingObject.h"
+	<bits/stdc++.h>
+	<stdlib.h>
+
+1617326466 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_gamemessage.cpp
+	"_gameMessage.h"
+
+1617326466 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_gllight.cpp
+	"_glLight.h"
+
+1617326466 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_gllight.h
+	<_glScene.h>
+
+1620415119 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_glscene.cpp
+	"_glScene.h"
+	<_glLight.h>
+	<SOIL.h>
+	<math.h>
+
+1620413562 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_input.cpp
+	"_input.h"
+	<windows.h>
+
+1617326466 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_parallax.cpp
+	"_parallax.h"
+
+1620065639 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_player.cpp
+	"_player.h"
+
+1617326466 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_texture.cpp
+	"_texture.h"
+
+1617326466 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_timer.cpp
+	"_timer.h"
+
+1617326466 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_helppage.cpp
+	"_HelpPage.h"
+
+1617326466 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_landingpage.cpp
+	"_LandingPage.h"
+
+1617326466 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_menupage.cpp
+	"_MenuPage.h"
+
+1617326466 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_popup.cpp
+	"_PopUp.h"
+
+1617322363 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_landingpage.h
+	<_texture.h>
+
+1617322363 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_helppage.h
+	<_texture.h>
+
+1617322363 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_menupage.h
+	<_texture.h>
+
+1617322363 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_popup.h
+	<_texture.h>
+
+1617322363 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_helppage.cpp
+	"_HelpPage.h"
+
+1617322363 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_landingpage.cpp
+	"_LandingPage.h"
+
+1617322363 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_menupage.cpp
+	"_MenuPage.h"
+
+1617322363 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_popup.cpp
+	"_PopUp.h"
+
+1620855332 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_screensettings.h
+	<iostream>
+	<_common.h>
+	<_texture.h>
+	<GL/gl.h>
+
+1620855332 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_screensettings.cpp
+	"_screenSettings.h"
+
+1619041053 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_screensettings.h
+	<iostream>
+	<_common.h>
+	<_texture.h>
+	<GL/gl.h>
+
+1620174505 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_screensettings.cpp
+	"_screenSettings.h"
+
+1620156804 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_enemies.h
+	<_common.h>
+	<_texture.h>
+	<_timer.h>
+	<iostream>
+	<GL/gl.h>
+
+1620266308 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_enemies.cpp
+	"_enemies.h"
+
+1620400674 d:\graphics\csci-191t-term-project\termproject\include\_screensettings.h
+	<iostream>
+	<_common.h>
+	<_texture.h>
+	<GL/gl.h>
+
+1620400674 source:d:\graphics\csci-191t-term-project\termproject\src\_screensettings.cpp
+	"_screenSettings.h"
+
+1618976978 shed changes
+
+1618989923 d:\graphics\csci-191t-term-project\termproject\include\_credits.h
+	<_texture.h>
+
+1618989923 source:d:\graphics\csci-191t-term-project\termproject\src\_credits.cpp
+	"_credits.h"
+
+1619041514 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_credits.h
+	<_texture.h>
+
+1619041514 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_credits.cpp
+	"_credits.h"
+	"_credits.h"
+
+1620855332 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_enemies.h
+	<_common.h>
+	<_texture.h>
+	<_timer.h>
+	<iostream>
+	<GL/gl.h>
+
+1620855332 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_enemies.cpp
+	"_enemies.h"
+
+1619041046 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_credits.h
+	<_texture.h>
+
+1619041046 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_credits.cpp
+	"_credits.h"
+
+1620413933 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_bullet.cpp
+	"_bullet.h"
+
+1620375861 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_bullet.h
+	<iostream>
+	<_common.h>
+	<_texture.h>
+	<GL/gl.h>
+
+1620176696 source:c:\chetan files\gamedevelop\csci-191t-term-project\termproject\src\_health.cpp
+	"_health.h"
+
+1620173288 c:\chetan files\gamedevelop\csci-191t-term-project\termproject\include\_health.h
+	<iostream>
+	<_common.h>
+	<_texture.h>
+	<GL/gl.h>
+
+1620400674 d:\graphics\csci-191t-term-project\termproject\include\_enemies.h
+	<_common.h>
+	<_texture.h>
+	<_timer.h>
+	<iostream>
+	<GL/gl.h>
+
+1620400674 source:d:\graphics\csci-191t-term-project\termproject\src\_enemies.cpp
+	"_enemies.h"
+
+1620404213 source:d:\graphics\csci-191t-term-project\termproject\src\_sounds.cpp
+	"_sounds.h"
+
+1620404222 d:\graphics\csci-191t-term-project\termproject\include\_sounds.h
+	<iostream>
+	<SNDS/irrKlang.h>
+
+1517331846 d:\graphics\common\include\snds\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1517252408 d:\graphics\common\include\snds\ik_irrklangtypes.h
+	<wchar.h>
+
+1517252408 d:\graphics\common\include\snds\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1517252408 d:\graphics\common\include\snds\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1517252408 d:\graphics\common\include\snds\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1517252408 d:\graphics\common\include\snds\ik_esoundoutputdrivers.h
+
+1517252408 d:\graphics\common\include\snds\ik_esoundengineoptions.h
+
+1517252408 d:\graphics\common\include\snds\ik_estreammodes.h
+
+1517252408 d:\graphics\common\include\snds\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1517252408 d:\graphics\common\include\snds\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1517252432 d:\graphics\common\include\snds\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1517252408 d:\graphics\common\include\snds\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1517252408 d:\graphics\common\include\snds\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1517252408 d:\graphics\common\include\snds\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1517252408 d:\graphics\common\include\snds\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1517252408 d:\graphics\common\include\snds\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1517252408 d:\graphics\common\include\snds\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1517252408 d:\graphics\common\include\snds\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1517252408 d:\graphics\common\include\snds\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1517252408 d:\graphics\common\include\snds\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1517252424 d:\graphics\common\include\snds\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1620855332 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_sounds.h
+	<iostream>
+	<SNDS/irrKlang.h>
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_irrklangtypes.h
+	<wchar.h>
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_esoundoutputdrivers.h
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_esoundengineoptions.h
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_estreammodes.h
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1617669014 c:\users\giris\desktop\csci191games\common\include\snds\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1620855332 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_bullet.h
+	<iostream>
+	<_common.h>
+	<_texture.h>
+	<GL/gl.h>
+
+1620855332 c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\include\_health.h
+	<iostream>
+	<_common.h>
+	<_texture.h>
+	<GL/gl.h>
+
+1620855332 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_bullet.cpp
+	"_bullet.h"
+
+1620855332 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_health.cpp
+	"_health.h"
+
+1620855332 source:c:\users\giris\desktop\csci191games\csci-191t-term-project\termproject\src\_sounds.cpp
+	"_sounds.h"
+
